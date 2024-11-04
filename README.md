@@ -9,8 +9,6 @@
 
 [Project Objective](#project-objective)
 
-[Data Cleaning and Exploratory Data Analysis](#data-Cleaning-and-exploratory-data-analysis)
-
 [Data Tools and Methods Used](#data-tools-and-methods-used)
 
 [Data Analysis](#data-analysis)

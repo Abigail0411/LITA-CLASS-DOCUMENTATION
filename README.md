@@ -26,19 +26,19 @@ The purpose of this project is to clean the dataset to ensure accuracy, consiste
 The data was collected from the HR Information desk Of Just Verified Limited.
 The dataset includes the following data:
 - Text Extraction
-  * Code
+  * Codes
 -	Text Cleaning 1 
-  * Names 
-  * Company 
-  * Salary
+   * Names of Staffs
+   * Company 
+   * Salary of the Staffs
 -	Text Cleaning  2
-  * Names
+   * Names of Staffs
 -	Text Cleaning  3
-  * First name
-  * Surname
-•	Text Cleaning  4
-  * Email addresses and Names.
-  * 
+   * First name of Staffs
+   * Surname of Staffs
+- Text Cleaning  4
+   * Email addresses and Names of Staffs
+
 Project Objective
 The objective of this project is to handle missing information in Text Extraction Data and also to make sure the names of the staffs are written accurately.
 Data Tools and Methods Used

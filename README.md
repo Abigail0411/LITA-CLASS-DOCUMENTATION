@@ -62,7 +62,6 @@ Formulars Used
 
 ```RIGHT(B10,4)``` -  Used to extract the Asset Category Code from the Codes Column.
 
-
 - **Text Cleaning 1 Data**
 ```TRIM(B6)``` -  Used to eliminate unnecessary spaces from the names 
 ```UPPER(E6)``` - Used to enter the names in Uppercase

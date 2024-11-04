@@ -13,7 +13,6 @@
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](#data-visualization)
 
 ## Project Overview
 ---

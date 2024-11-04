@@ -1,5 +1,20 @@
 # LITA-CLASS-DOCUMENTATION 
 
+## Context
+
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Project Objective](#project-objective)
+
+[Data Cleaning and Exploratory Data Analysis](#data-Cleaning-and-exploratory-data-analysis)
+
+[Data Tools and Methods Used](#data-tools-and-methods-used)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 Project Overview
 
 The purpose of this project is to clean the dataset to ensure accuracy, consistency and it been usable for various applications and analysis.

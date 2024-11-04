@@ -1,4 +1,5 @@
-# LITA-CLASS-DOCUMENTATION 
+# LITA CLASS DATA ANALYSIS: DATA CLEANING PROJECT
+---
 
 ## Context
 
@@ -15,25 +16,29 @@
 [Data Analysis](#data-analysis)
 
 [Data Visualization](#data-visualization)
-Project Overview
 
+## Project Overview
+---
 The purpose of this project is to clean the dataset to ensure accuracy, consistency and it been usable for various applications and analysis.
-Data source
-The data was collected from the HR Information desk.
+
+## Data source
+---
+The data was collected from the HR Information desk Of Just Verified Limited.
 The dataset includes the following data:
--	Text Extraction
-•	Code
+- Text Extraction
+  * Code
 -	Text Cleaning 1 
-•	Names
-•	Company 
-•	Salary
+  * Names 
+  * Company 
+  * Salary
 -	Text Cleaning  2
-•	Names
+  * Names
 -	Text Cleaning  3
-•	First name
-•	Surname
+  * First name
+  * Surname
 •	Text Cleaning  4
-•	Email addresses and Names.
+  * Email addresses and Names.
+  * 
 Project Objective
 The objective of this project is to handle missing information in Text Extraction Data and also to make sure the names of the staffs are written accurately.
 Data Tools and Methods Used

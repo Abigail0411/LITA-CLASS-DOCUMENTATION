@@ -28,31 +28,33 @@ The dataset includes the following data:
 - **Text Extraction**
   * Codes
 -	**Text Cleaning 1** 
-  * Names of Staffs
-  * Company 
-  * Salary of the Staffs
+    * Names of Staffs
+    * Company 
+    * Salary of the Staffs
 -	**Text Cleaning 2**
-  * Names of Staffs
+    * Names of Staffs
 -	**Text Cleaning 3**
-  * First name of Staffs
-  * Surname of Staffs
+    * First name of Staffs
+    * Surname of Staffs
 - **Text Cleaning 4**
    * Email addresses and Names of Staffs
 
-Project Objective
+## Project Objective
+---
 The objective of this project is to handle missing information in Text Extraction Data and also to make sure the names of the staffs are written accurately.
-Data Tools and Methods Used
-Microsoft Excel was used to clean the data using the whole
+
+## Data Tools and Methods Used
+- Microsoft Excel was used to clean the data using the whole
 i.	Exploring the data to understand the structure and what is expected to be in the dataset 
 ii.	Identify the issues that need to addressed such as missing data, names and emails.
 iii.	Deciding on the strategy to address the missing data.
 iv.	Ensuring consistent capitalizing and spacing in the names and emails.
 
+## Data Analysis
 Formulars Used
-Text Extraction Data
-A description was given in the data on how to extract the Department, Purchase Date and Asset Category Codes from the Codes Column.
-The data for the first codes were found using the following formulars and flash fill was used to fill the rest of the cells.
-
+**The data for the first codes were found using the following formulars and flash fill was used to fill the rest of the cells.**
+- Text Extraction Data
+**A description was given in the data on how to extract the Department, Purchase Date and Asset Category Codes from the Codes Column.**
 ```LEFT(B10,2)``` -  Used to extract the Department codes from the Codes Column 
 
 ```MID(B10,3,6)``` -  Used to extract the Purchase Date codes from the Codes Column
